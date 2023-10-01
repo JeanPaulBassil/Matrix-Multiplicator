@@ -10,7 +10,7 @@ This Python script uses the Sympy library to perform matrix multiplication. It a
 ## Installation
 1. Clone the repository
     ```
-    git clone https://github.com/YourGithubUsername/MatrixMultiplication.git
+    git clone https://github.com/JeanPaulBassil/MatrixMultiplication.git
     ```
 2. Navigate to the directory
     ```
